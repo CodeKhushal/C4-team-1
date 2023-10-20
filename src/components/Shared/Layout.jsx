@@ -6,7 +6,7 @@ import Sidebar from "./Sidebar";
 const Layout = () => {
   return (
     <>
-      <div className="drawer-mobile drawer h-fit overscroll-none bg-red-200 bg-gradient-to-b from-red-200 via-red-300 to-red-400 lg:drawer-open">
+      <div className="drawer-mobile drawer h-fit overscroll-none bg-gradient-to-r from-sky-200 via-indigo-300 to-indigo-400 lg:drawer-open">
         <input
           id="left-sidebar-drawer"
           type="checkbox"
